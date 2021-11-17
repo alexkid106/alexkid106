@@ -2,7 +2,7 @@
 
 
 - 🔭 Full Stack Developer
-- 🌱 Estudando React, React Native, Node.js e várias outras tecnologias
+- 🌱 Estudando Python e várias outras tecnologias
 
 <div align="center">
   <a href="https://github.com/alexkid106">
